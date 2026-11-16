@@ -21,8 +21,6 @@ Analista de Sistemas na **Innovatox**, onde desenvolvo e mantenho sistemas inter
   <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,php,mysql,java,spring,azure,git,linux" />
 </p>
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCa04&layout=compact&theme=tokyonight&hide_border=true" />
-
 <a href="https://www.linkedin.com/in/otavio-almeida04/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
