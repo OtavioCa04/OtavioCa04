@@ -13,7 +13,7 @@ Analista de Sistemas na **Innovatox**, onde desenvolvo e mantenho sistemas inter
 - 🏭 **Grupo Ita Aços**: Web Developer (2025). Entreguei 4 sistemas internos, entre eles aprovação financeira, controle de chamados integrado ao GLPI e automação de orçamentos
 - 🏛️ **Prefeitura de Itapetininga**: Estagiário de TI (2024 - 2025). Suporte, infraestrutura e redes
 - 🎓 Análise e Desenvolvimento de Sistemas, FATEC
-- 🌎 Português, Espanhol (intercâmbio em Barcelona)
+- 🌎 Português, Inglês e Espanhol (intercâmbio em Barcelona)
 
 - Principais stacks:
 
